@@ -1,0 +1,51 @@
+body {
+  font-family: sans-serif;
+  display: block;
+  padding: 20px 50px;
+  max-width: 1000px;
+}
+h1 {
+  font-family: "Architects Daughter", cursive;
+  background-color: rgb(189, 216, 221);
+  text-align: center;
+  border-radius: 40px;
+  padding: 30px;
+}
+nav {
+  font-size: 80px;
+}
+.city,
+.temp,
+.fav-cities {
+  color: rgb(20, 161, 255);
+}
+.city {
+  font-family: "Architects Daughter", cursive;
+  font-size: 40px;
+}
+.temp {
+  font-family: "Architects Daughter", cursive;
+  font-size: 60px;
+  text-align: center;
+}
+.precipitation-wind {
+  font-size: 20px;
+  position: fixed;
+  text-align: right;
+  padding: 10px 20px;
+  margin: -30px 20px;
+}
+.current-weather {
+  font-size: 20px;
+}
+.col-2 {
+  font-size: 30px;
+}
+.fav-cities {
+  font-size: 25px;
+  font-family: "Architects Daughter", cursive;
+  text-align: center;
+}
+.cloudy {
+  color: black;
+}
